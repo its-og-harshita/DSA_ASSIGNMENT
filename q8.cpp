@@ -17,7 +17,7 @@ pair<int, int> findTwoSum(const vector<int>& nums, int target) {
     }
 
     return {-1, -1};
-
+}
 int main() {
     vector<int> nums = {1, 2, 3, 4, 6, 8, 10};
     int target = 10;
